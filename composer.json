@@ -1,0 +1,12 @@
+{
+  "name": "corehpc/cache",
+  "description": "A fun module for Magento 2",
+  "type": "magento2-module",
+  "version": "0.0.1",
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Corehpc\\Cache\\": ""
+    }
+  }
+}
